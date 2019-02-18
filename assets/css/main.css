@@ -3704,3 +3704,14 @@
 		min-height: 100vh;
 		opacity: 1;
 	}
+
+	#banner {
+		background-image: url("../../images/architecture-blue-build-162557.jpg");
+	}
+
+	#contact {
+		margin: 0 auto;
+		position: relative;
+		width: 100%;
+	}
+
